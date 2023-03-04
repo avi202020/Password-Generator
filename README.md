@@ -33,7 +33,7 @@ https://avi202020.github.io/Password-Generator/
 
 ![Screenshot_App_prompt_to_choose_uppercase](https://github.com/avi202020/Password-Generator/blob/main/password_generator_prompt_to_choose_uppercase_option.png/)
 
-![Screenshot_App_prompt_to_choose_numericcharacter](https://github.com/avi202020/Password-Generator/blob/main/images/password_generator_prompt_to_choose_numericcharacter_option,png/)
+![Screenshot_App_prompt_to_choose_numericcharacter](https://github.com/avi202020/Password-Generator/blob/main/images/password_generator_prompt_to_choose_numericcharacter_option.png/)
 
 ![Screenshot_App_to_prompt_choose_specialcharacter](https://github.com/avi202020/Password-Generator/blob/main/images/password_generator_prompt_to_choose_specialcharacter_option.png/)
 
